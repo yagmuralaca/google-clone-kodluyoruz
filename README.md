@@ -9,4 +9,4 @@ HTML ve CSS eğitimleri sonrasında edindiğim bilgiler ile başkası tarafında
 ![İstenilen Ödev](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/css/odev2/figures/googlehomepage.png)
 
 ## Gerçekleştirdiğim Proje
-![Gerçekleştirilen Proje](https://www.hizliresim.com/cjknn4y)
+![Gerçekleştirilen Proje](https://i.hizliresim.com/cjknn4y.png)
